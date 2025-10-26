@@ -1,6 +1,11 @@
 # Instruction - scalable computing project 1  
 **Group 15**
 
+## Group Members
+- Hugh Langan (21367862)  
+- Vihit Khetle (25339598)  
+- Nakshatra Shrivastava (25332635)
+
 ## Files:
 
 **`captcha_gen_given.py`**  
