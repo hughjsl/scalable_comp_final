@@ -41,3 +41,5 @@ csv output from this should be identical to the csv output from keras_to_csv.py,
  - preview preprocessing
 shows a random set of 5 captchas, before and after preprocessing
 
+ - individual_data (directory)
+includes the fonts and zipped PNG test set for each team member
