@@ -6,7 +6,7 @@
 - Vihit Khetle (25339598)  
 - Nakshatra Shrivastava (25332635)
 
-## Files:
+## Files: (execute in order)
 
 **`captcha_gen_given.py`**  
 creates a set of captchas for training data with an associated .csv file of correct answers for validation purposes, defaulted to 64000 files
